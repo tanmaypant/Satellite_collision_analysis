@@ -1,1 +1,0 @@
-Data fetched at 2025-07-22 15:24:25.570695 and saved to satellite_data.csv

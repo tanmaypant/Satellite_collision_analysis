@@ -1,0 +1,20 @@
+[2025-07-25 12:05:06.937699] 🚀 Starting Satellite Collision Monitor Automation
+[2025-07-25 12:05:06.937699] 🔄 New cycle started.
+[2025-07-25 12:06:22.588325] ✅ Successfully ran fetch_data.py
+[2025-07-25 12:06:23.879078] ✅ Successfully ran clean_data.py
+[2025-07-25 12:06:25.120408] ✅ Successfully ran calculate_proximity.py
+[2025-07-25 12:06:25.121408] ✅ Cycle completed. Sleeping...
+
+[2025-07-25 12:06:34.647843] 🛑 Automation stopped by user.
+[2025-07-25 12:23:41.678005] 🔄 New cycle started.
+[2025-07-25 12:23:41.792109] ❌ Error in fetch_data.py:
+python: can't open file 'C:\\Sat-coll-an\\Satellite_collision_analysis\\fetch_data.py': [Errno 2] No such file or directory
+
+[2025-07-25 12:23:41.849705] ❌ Error in clean_data.py:
+python: can't open file 'C:\\Sat-coll-an\\Satellite_collision_analysis\\clean_data.py': [Errno 2] No such file or directory
+
+[2025-07-25 12:23:41.907525] ❌ Error in calculate_proximity.py:
+python: can't open file 'C:\\Sat-coll-an\\Satellite_collision_analysis\\calculate_proximity.py': [Errno 2] No such file or directory
+
+[2025-07-25 12:23:41.908474] ✅ Cycle completed. Sleeping...
+

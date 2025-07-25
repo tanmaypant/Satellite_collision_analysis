@@ -1,0 +1,9 @@
+{
+  "satellites": [
+    {"id": 25544, "name": "ISS"},
+    {"id": 43013, "name": "Starlink-1134"},
+    {"id": 27607, "name": "NOAA 18"},
+    {"id": 39084, "name": "METEOR M2"},
+    {"id": 20580, "name": "Hubble"}
+  ]
+}
